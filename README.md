@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 
 
 -->
-- 🔭 I’m currently working on WordPress, Manual testing, Test Automation using Playwright
-- 🌱 I’m currently learning advanced techniques on test automation, Frappe and ERP Systems
+- 🔭 I’m currently working on WordPress, Manual testing, and Test Automation using Playwright
+- 🌱 I’m currently learning advanced techniques on test automation, Frappe, and ERP Systems
 - 👯 I’m looking to collaborate on developing new WP plugins, Test Automation tasks, learning Frappe and ERP
 - 💬 Ask me about WordPress, Frappe, Playwright, Linux, DevOps, and Movies and Cars
 - Have a look at [My Blogs](https://medium.com/@duttarishav2510)
@@ -23,6 +23,7 @@ I am a passionate **tech enthusiast** with a strong interest in:
 - 🔍 **Enhancing Software Quality**
 - 💡 **Frappe & ERP Systems** (Learning and exploring)
 - ⚙️ **Backend Development & DevOps** (Always eager to learn new technologies)
+Besides I am also a [Certified Scrum Master](https://bcert.me/bc/html/show-badge.html?b=nuwczfxv)
 
 ## 🛠 Tech Stack & Tools
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/rishavdutta/)
