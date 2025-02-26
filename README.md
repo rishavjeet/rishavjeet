@@ -23,7 +23,9 @@ I am a passionate **tech enthusiast** with a strong interest in:
 - 🔍 **Enhancing Software Quality**
 - 💡 **Frappe & ERP Systems** (Learning and exploring)
 - ⚙️ **Backend Development & DevOps** (Always eager to learn new technologies)
+
 Besides I am also a [Certified Scrum Master](https://bcert.me/bc/html/show-badge.html?b=nuwczfxv)
+My [WP.org profile](https://profiles.wordpress.org/rishavdutta/)
 
 ## 🛠 Tech Stack & Tools
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/rishavdutta/)
