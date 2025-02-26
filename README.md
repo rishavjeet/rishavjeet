@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning advanced techniques on test automation, Frappe and ERP Systems
 - 👯 I’m looking to collaborate on developing new WP plugins, Test Automation tasks, learning Frappe and ERP
 - 💬 Ask me about WordPress, Frappe, Playwright, Linux, DevOps, and Movies and Cars
+- Have a look at [My Blogs](https://medium.com/@duttarishav2510)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am Foodie
 
